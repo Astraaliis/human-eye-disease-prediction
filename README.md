@@ -53,5 +53,3 @@ Through this project, the following skills were developed:
 
 ---
 
-## 🏁 Conclusion  
-The Human Eye Disease Prediction System demonstrates a strong foundation in **deep learning, computer vision, and healthcare AI**. It serves as a well-structured portfolio project suitable for academic evaluation, internships, and entry-level roles in machine learning and data science.
